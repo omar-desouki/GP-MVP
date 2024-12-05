@@ -1,0 +1,7 @@
+# # Ignore frames and enhanced_frames folders
+# MVP/frames/
+# MVP/enhanced_frames/
+# MVP/DeOldify/
+
+# # Ignore output video file
+# MVP/output_video.mp4
